@@ -28,7 +28,7 @@ namespace SimpleAPI.Controllers
         [HttpGet]
          public ActionResult<string> Get()
         {
-            return "This is a simple test2";
+            return "This is a simple test";
         }
 
         // public IEnumerable<WeatherForecast> Get()
